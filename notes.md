@@ -16,10 +16,17 @@
 6. let's style our text, fonts, color, web fonts
 7. backgrounds, boxes, borders, box model
 8. layout - centering our image, doing a 2 column layout
-9. Decorations and fun stuff 
+9. Decorations and fun stuff (optional lesson if we get time at the end.)
 
 ##Research on GUI tool for course
 We tried Thimble and JSBin in the past. Accounts were a pain for both in the past, with the school having to create multiple emails, usernames, pwds, etc. for the students. But I think this is unavoidable. It would be great if we could find a tool that allows the teacher to create a master account that all the students can then use to log in.
+
+Options:
+
+* [JSBin](http://jsbin.com/): It's my favourite one of these tools, but it does require a separate login for each student, and students sometimes got confused about how to save their work, resulting in lost work.
+* [Thimble](https://thimble.mozilla.org/en-US/): The new Mozilla Thimble looks like a strong contender; it has fixed many of the problems the previous one had (such as not having a separate pane for HTML/CSS), but it still requires separate logins/passwords.
+* [Codepen](http://codepen.io): Very popular amongst the web developer crowd for sharing experiments, but a bit less beginner friendly than the others, less easy to publish your work and view just the work (e.g. publish your website), and still requires logins.
+* [JSFiddle](https://jsfiddle.net/): One of the older offerings available, still pretty darn good. But pretty geeky and not very beginner friendly.
 
 ## Year 6 lessons
 There is a shift in the computer curriculum towards comp sci, and Claire is expected to teach some new stuff to her year 6 classes, and she thinks I can help her. Each one of the following would need to be taught in a half hour session.
