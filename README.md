@@ -18,3 +18,6 @@ The material presented here is designed to give complete beginners to web design
 
 ##Feedback
 I'd love to hear your feedback on the course. Feel free to file a github issue if you want to discuss anything, or ping me on [Twitter](https://twitter.com/chrisdavidmills) or e-mail (cmills at mozilla dot com.)
+
+##Notes
+Also see the raw [course notes](notes.md).

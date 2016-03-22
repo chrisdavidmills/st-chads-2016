@@ -19,7 +19,7 @@
 9. Decorations and fun stuff 
 
 ##Research on GUI tool for course
-We tried Thimble and JSBin in the past. Accounts were a pain for both in the past, with the school having to create multiple emails, usernames, pwds, etc. for the students. But I think this is unavoidable. It would be great if we could find a tool tat allows the teacher to create a master account that all the students can then use to log in.
+We tried Thimble and JSBin in the past. Accounts were a pain for both in the past, with the school having to create multiple emails, usernames, pwds, etc. for the students. But I think this is unavoidable. It would be great if we could find a tool that allows the teacher to create a master account that all the students can then use to log in.
 
 ## Year 6 lessons
 There is a shift in the computer curriculum towards comp sci, and Claire is expected to teach some new stuff to her year 6 classes, and she thinks I can help her. Each one of the following would need to be taught in a half hour session.
@@ -45,7 +45,7 @@ Outcomes:
 
 Outcomes to understand:
 
-1. Internet is a large network
+1. The Internet is a large network
 2. Understand that data can be shared and copied (esafety, copyright, plagiarism)
 3. Understand role of servers, e.G. Print servers, file sharing servers, web servers
 4. Use internet to share data with another person - show different services
