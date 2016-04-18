@@ -2,10 +2,7 @@
 Welcome to Beginner's web development. This course aims to teach you a little bit about how the web works and how to create content for it, and get you excited about technology in general. 
 
 ## Why is the Web interesting?
-The Web is possibly the most revolutionary invention of our time, as the following  slideshow explains:
-
-
-<iframe src="https://slides.com/chrisdavidmills/what-is-the-web/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+The Web is possibly the most revolutionary invention of our time, [as this slideshow explains](http://slides.com/chrisdavidmills/what-is-the-web#/).
 
 ## Why is the web a good thing?
 We've already looked at some of the advantages above, but think about it again:

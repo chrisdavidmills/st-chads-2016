@@ -54,7 +54,7 @@ Outcomes to understand:
 
 1. The Internet is a large network
 2. Understand that data can be shared and copied (esafety, copyright, plagiarism)
-3. Understand role of servers, e.G. Print servers, file sharing servers, web servers
+3. Understand role of servers, e.g. Print servers, file sharing servers, web servers
 4. Use internet to share data with another person - show different services
 5. Understand how computers are able to communicate and share information - talk about dialup, wired, (briefly), then talk about wifi networks, etc.
 6. Use and combine services on t'internet to share information - google docs? 
