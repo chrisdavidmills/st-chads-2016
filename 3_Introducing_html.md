@@ -51,7 +51,7 @@ The important parts of the HTML structure are:
 * The head (<code>&lt;head&gt;&lt;/head&gt;</code>): This contains metadata — information about the page, which won't appear in the actual web page content. For example, a link to some CSS to style the page, the title of the web page, etc.
 * The body (<code>&lt;body&gt;&lt;/body&gt;</code>): This is the container for the actual content of your web page, the stuff that you'll actually see on the page. 
 
-##PRACTICAL: adding our basic body structure
+##Adding our basic body structure
 Let's add the following body structure to our web page — this needs to go in between <code>&lt;body&gt;</code> and <code>&lt;/body&gt;</code>:
 
 <pre>&lt;header&gt;
@@ -66,7 +66,7 @@ Let's add the following body structure to our web page — this needs to go in b
   
 &lt;/div&gt;</pre>
 
-This will eventually be a page header, plus two columns of content.
+This will eventually be a page header, plus two columns of content. Delete what was there before.
 
 Note: Don't get header confused with head — they are two different things.
 
@@ -110,6 +110,8 @@ You can use list markup to mark up a list:
   &lt;li&gt;list&lt;/li&gt;
 &lt;/ol&gt;</pre>
 
+Try adding a list to your page.
+
 
 ###Emphasis
 
@@ -119,3 +121,5 @@ You can also emphasise words in different ways:
 
 <pre>&lt;p&gt;The first simple rock beat you'll learn is called
  an &lt;strong&gt;eighth beat&lt;/strong&gt;.&lt;/p&gt;</pre>
+ 
+ Again, try this out on your page.
