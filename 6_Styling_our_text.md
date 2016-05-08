@@ -31,6 +31,11 @@ There are many other text-related properties we could use; you could also perhap
 * <code>letter-spacing: 0.5px</code>: Adds space between letters.
 * <code>word-spacing: 0.2rem</code>: Adds space between words.
 
+Try centering your main heading too, by adding this declaration to it:
+
+<pre>text-align: center;</pre>
+
+
 ##Color
 We met colour in the previous article:
 

@@ -1,0 +1,145 @@
+How search engines work
+-----------------------
+
+Google (and other search engines) have web crawlers (or spiders) — applications that crawl the web and index pages in a way that is easily searchable by the search engines themselves. For example Google has Googlebot, Bing has Bingbot...
+
+These apps:
+
+* load new web pages 
+* Find their useful information/keywords/headings/links.
+* then they do the same to pages they are linking
+* And pages they are linking, and so on.
+* They also recheck pages after a certain amount of time.
+
+Search engines can then search this index to find the most relevant resuls to pull up for any search term.
+
+--------------------
+
+What counts positively towards search rank?
+
+1.
+
+Keywords - e.g. if your site is about dogs, they look for "dog", "breeding", "labrador", "doberman", "puppies", "care", "feeding", etc.
+
+Keep keywords consistent. Stick to a consistent tagline that says it all. Get everyone to use that tagline, e.g. Nike "Just do it"
+
+These words are more potent if used in headings, links, bolded text, etc
+
+<h1>Dog breeding</h1>
+
+<p>Find more out about <a href="labradors.html">Owning Labradors</a>.</p>
+
+<p>Popular dog breeds include <strong>Labradors</strong>, <strong>Dobermans</strong>, and <strong>Poodles</strong>.</p>
+
+2. 
+
+Lots of good traffic to and from your site. If lots of other high ranking, relevant sites link to you, and you link to other such sites, that is a good thing. Social media is important here.
+
+This is why spammers try put spam links on big sites.
+
+3. 
+
+Does your site load quickly
+
+4. 
+
+Does it work well on mobiles and other devices
+
+5. 
+
+Does the site have a good user experience. Not loaded with ads, easy to get around, varied and interesting content (having images and video counts positively.)
+
+6.
+
+Are your domains consistent? www.mysite.com, versus mysite.com or mysite.co.uk?
+
+7.
+
+Metadata
+
+Most metadata is useless these days because of abuse by keyword spammers, but it is still useful to have some meta data present - some of it is used in results pages.
+
+https://developer.mozilla.org/en-US/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Metadata_the_%3Cmeta%3E_element
+
+-----------------
+
+What counts negatively?
+
+1.
+
+Keyword spam
+
+in pages, and in metadata, e.g. the keyword meta tag.
+
+<meta name="keywords" content="FAR TOO MUCH STUFF!!!">
+
+2.
+
+Bad user experience
+
+3.
+
+Sponsored links
+
+Google knows all ;-)
+
+4. Bad content
+
+-----------------
+
+Stopping web crawlers
+
+You can add code to your website to limit the amount of information indexed, for example:
+
+<meta name="Googlebot" content="nofollow" />
+
+or by using robots.txt (the robot exclusion policy), which looks something like this:
+
+User-agent: *
+Disallow: /private/
+Disallow: /notes/
+Disallow: /diary/
+
+
+* == 'wild card'
+
+You can also use nofollow on specific links
+
+<a href="www.annoyingsite.com" rel="nofollow">Spam link</a>
+
+Cite MDN spam example (lots of traffic good for SEO.)
+
+Why would you not want your content indexed? It might be out of date, or wrong, or embarrassing. This brings us towards the subject of esafety - anything you put online will be there pretty much forever, unless you do something about it (and you may not be able to.)
+
+Think carefully before you put things online.
+
+Cite MDN archives section as a good example
+
+------------------------------------
+
+
+* Interesting search tricks
+http://people.mozilla.org/~cmills/st-chads/lesson11.html
+
+------------------------------------
+
+Wide range of search tools
+
+web page like google.co.uk
+app on mobile device
+in-browser search tool
+
+------------------------------------
+
+Recognising trustworthy sources - is it the truth? Is it valid? Is it a spam site? Is it legit?
+
+Check date
+Some sites are obviously trustworthy, e.g. bbc.co.uk
+Sites are top of rankings = more trustworthy
+check the URL is correct
+check for phishing sites - e.g. ask for whole password? Link in email from trustworthy source.
+check for https in the web site address
+look for trust certificates, e.g. verisign
+do they use popular partner sites such as paypal or google for payments.
+Look for reviews of the site.
+Search for "example.com scam"

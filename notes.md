@@ -29,7 +29,7 @@ Options:
 * [JSFiddle](https://jsfiddle.net/): One of the older offerings available, still pretty darn good. But pretty geeky and not very beginner friendly.
 
 ## Year 6 lessons
-There is a shift in the computer curriculum towards comp sci, and Claire is expected to teach some new stuff to her year 6 classes, and she thinks I can help her. Each one of the following would need to be taught in a half hour session.
+There is a shift in the computer curriculum towards comp sci, and Claire is expected to teach some new stuff to her year 6 classes, and thinks I can help her. Each one of the following would need to be taught in a half hour session, roughly speaking.
 
 ###How search engines work
 
