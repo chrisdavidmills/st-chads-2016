@@ -207,7 +207,18 @@ article:target {
   z-index: 2;
 }</pre>
 
-One thing is wrong — it would be really nice to have the active tab (the one whose coresponding content is being shown) staying the same color as the content pane. To do this reliably, we'll need to use some JavaScript; add the following just before the closing body tag (<code>&lt;/body&gt;</code>).
+Try your example now — to do so, you'll have to publish your page using the "Publish" button, and go to the web address.
+
+One thing is wrong — it would be really nice to have the active tab (the one whose coresponding content is being shown) staying the same color as the content pane. To do this reliably, we'll need to use some JavaScript; first, change the first tab HTML:
+
+<pre>&lt;li&gt;&lt;a href="#t1"&gt;Tab 1&lt;/a&gt;&lt;/li&gt;</pre>
+
+to this:
+
+<pre>&lt;li&gt;&lt;a href="#t1" class="active"&gt;Tab 1&lt;/a&gt;&lt;/li&gt;</pre>
+
+
+Now add the following just before the closing body tag (<code>&lt;/body&gt;</code>).
 
 <pre>&lt;script&gt;
 
