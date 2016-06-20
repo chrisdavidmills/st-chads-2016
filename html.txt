@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Made with Thimble</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    
+    <h1>
+      Playing the drums 
+    </h1>
+    
+    <p>This website is dedicated to giving your the information you need to start playing the drums.</p>
+
+  </header>
+
+  <div>
+    
+    <h2>
+      Getting started with drums
+    </h2>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Terry_Bozzio_drums.jpg" alt="This is my image" width="400">
+
+  </div>
+
+  <div>
+    
+    <h2>
+      Drum equipment to buy
+    </h2>
+    
+    <p>
+      The following is a list of equipment that you should buy to make up a drumkit.
+    </p>
+    
+    <ul>
+      <li>Shells</li>
+      <li><a href="http://www.sabian.com/en/home">Cymbals</a></li>
+      <li>Sticks</li>
+      <li>Stands</li>
+    </ul>
+    
+    <p>
+      Find more out about <a href="https://en.wikipedia.org/wiki/Drum_kit">Drums here</a>.
+    </p>
+
+  </div>
+
+</body>
+</html>
