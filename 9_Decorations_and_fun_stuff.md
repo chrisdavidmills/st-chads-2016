@@ -76,6 +76,8 @@ fontFamily = 'monospace';</pre>
 
 <hr>
 
+<p>Here's another fun and rather silly example to try out:</p>
+
 <pre>var btn = document.createElement('button');
 btn.textContent = 'Click me!!';
 document.body.appendChild(btn);
