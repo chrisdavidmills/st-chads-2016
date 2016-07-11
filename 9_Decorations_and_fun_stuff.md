@@ -103,7 +103,9 @@ To end, let's give you some resources to learn more!
 	* [JavaScript](https://developer.mozilla.org/en-US/Learn/JavaScript)
 * [Codecademy](https://www.codecademy.com/)
 * [code.org](https://code.org/)
-	
+* Troubleshooting code:
+	* [Browser developer tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
+	* [Dirty markup](https://www.dirtymarkup.com/) 	
 
 
 
